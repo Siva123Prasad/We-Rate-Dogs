@@ -18,7 +18,7 @@ Back to the basic-ness of Twitter archives: retweet count and favorite count are
 
 **Gathering Data for this Project**
 
-Gather each of the three pieces of data as described below in a Jupyter Notebook titled wrangle_act.ipynb:
+I've gathered each of the three pieces of data in a Jupyter Notebook titled wrangle_act.ipynb
 
 The WeRateDogs Twitter archive. twitter_archive_enhanced.csv
 
